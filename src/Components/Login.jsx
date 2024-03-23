@@ -1,5 +1,5 @@
 import React from "react";
-import imageSrc from "./assets/logo_b.png"
+import imageSrc from "./assets/logo_t_b.png"
 
 const Login = (props) => {
     return (
