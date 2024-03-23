@@ -22,8 +22,8 @@
 -->
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]](https://img.shields.io/github/starts/apenas-will/smart_change?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/apenas-will/smart_change?style=for-the-badge)
+[![Stargazers][stars-shield]](https://img.shields.io/github/starts/SmartChange2024/SmartChoosing?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/SmartChange2024/SmartChoosing?style=for-the-badge)
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
@@ -44,11 +44,11 @@
     <a href="https://github.com/SmartChange2024/SmartChoosing"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/apenas-will/smart_change">View Demo</a>
+    <a href="https://github.com/SmartChange2024/SmartChoosing">View Demo</a>
     ·
-    <a href="https://github.com/apenas-will/smart_change/issues">Report Bug</a>
+    <a href="https://github.com/SmartChange2024/SmartChoosing/issues">Report Bug</a>
     ·
-    <a href="https://github.com/apenas-will/smart_change/issues">Request Feature</a>
+    <a href="https://github.com/SmartChange2024/SmartChoosing/issues">Request Feature</a>
   </p>
 </div>
 
@@ -218,12 +218,12 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/apenas-will/smart_change.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/SmartChange2024/SmartChoosing.svg?style=for-the-badge
 [contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/apenas-will/smart_change?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/SmartChange2024/SmartChoosing?style=for-the-badge
 [forks-url]: https://github.com/github_username/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/apenas-will/smart_change.svg?style=for-the-badge
-[stars-url]: https://github.com/apenas-will/smart_change/stargazers
+[stars-shield]: https://img.shields.io/github/stars/SmartChange2024/SmartChoosing.svg?style=for-the-badge
+[stars-url]: https://github.com/SmartChange2024/SmartChoosing/stargazers
 [issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
 [issues-url]: https://github.com/github_username/repo_name/issues
 [license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
