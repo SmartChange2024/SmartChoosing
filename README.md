@@ -21,13 +21,6 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]](https://img.shields.io/github/starts/SmartChange2024/SmartChoosing?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/SmartChange2024/SmartChoosing?style=for-the-badge)
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
