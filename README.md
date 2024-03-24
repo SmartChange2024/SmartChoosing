@@ -162,7 +162,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- REFERENCES -->
 
-## References
+## :pushpin: References
 
 - This project is an adaptation of [Syedmuhamaddanish's Voting Application](https://github.com/syedmuhamaddanish/React-Voting-Application/tree/main). Please, check the original code to more insights.
 
