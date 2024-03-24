@@ -21,6 +21,13 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]](https://img.shields.io/github/starts/SmartChange2024/SmartChoosing?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/SmartChange2024/SmartChoosing?style=for-the-badge)
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -168,7 +175,7 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 ## References
 
-- This project takes, for the idea the group had, the already developed [Syedmuhamaddanish's Voting Application] as inspiration.(https://github.com/syedmuhamaddanish/React-Voting-Application/tree/main). Please, check the original code to more insights.
+- This project is an adaptation of [Syedmuhamaddanish's Voting Application](https://github.com/syedmuhamaddanish/React-Voting-Application/tree/main). Please, check the original code to more insights.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
