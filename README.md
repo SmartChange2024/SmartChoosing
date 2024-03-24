@@ -175,7 +175,7 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 ## References
 
-- This project is an adaptation of [Syedmuhamaddanish's Voting Application](https://github.com/syedmuhamaddanish/React-Voting-Application/tree/main). Please, check the original code to more insights.
+- This project takes, for the idea the group had, the already developed [Syedmuhamaddanish's Voting Application] as inspiration.(https://github.com/syedmuhamaddanish/React-Voting-Application/tree/main). Please, check the original code to more insights.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
