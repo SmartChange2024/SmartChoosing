@@ -9,6 +9,9 @@ contract Voting { // cria o contrato Votação
 
     Candidate[] public candidates; // cria uma matriz pública em que cada elemento vai ser uma instância do struct candidatos
     address owner; // define o endereço do proprietário do contrato
+
+    mapping(address => bool) public isResident;
+    mapping(address => bool) public inCompliance;
     mapping(address => bool) public voters; // cria um mapping relacionando address e um valor booleano para definir quem vota
 
     uint256 public votingStart; // início da votação
