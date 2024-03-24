@@ -70,14 +70,13 @@
     <li><a href="#usage">Usage</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
     <li><a href="#References">References</a></li>
   </ol>
 </details>
 
 <!-- ABOUT THE PROJECT -->
 
-## About The Project
+## :blue_book: About The Project
 
 <img src="./images/login_page.png" alt="Login page"/>
 
@@ -85,7 +84,7 @@ Smart Choosing is a transparent, immutable, and decentralized **voting system**.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Built With
+### :wrench: Built With
 
 - [![JavaScript][JavaScript.com]][JavaScript-url]
 - [![Next][Next.js]][Next-url]
@@ -96,16 +95,16 @@ Smart Choosing is a transparent, immutable, and decentralized **voting system**.
 
 <!-- GETTING STARTED -->
 
-## Getting Started
+## :pencil: Getting Started
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+### :white_check_mark: Prerequisites
 
 1. Personal [MetaMask](https://metamask.io/) wallet.
 
-### Installation
+### :file_folder: Installation
 
 1. Clone the repository
    ```sh
@@ -128,7 +127,7 @@ To get a local copy up and running follow these simple example steps.
 
 <!-- USAGE EXAMPLES -->
 
-## Usage
+## :computer: Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
@@ -138,7 +137,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 <!-- CONTRIBUTING -->
 
-## Contributing
+## :v: Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -155,23 +154,13 @@ Don't forget to give the project a star! Thanks again!
 
 <!-- LICENSE -->
 
-## License
+## :page_with_curl: License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTACT -->
-
-## Contact
-
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
-
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGMENTS -->
+<!-- REFERENCES -->
 
 ## References
 
